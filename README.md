@@ -17,3 +17,5 @@ Minecraft skin 3D viewer.
 [coveralls]: https://coveralls.io/github/liziyi0914/react-minecraft-skin-viewer
 
 [license-badge]: https://img.shields.io/npm/l/react-minecraft-skin-viewer
+
+[React version of earthiverse/3D-Minecraft-Skin-Viewer](https://github.com/earthiverse/3D-Minecraft-Skin-Viewer)
